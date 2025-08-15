@@ -1,2 +1,2 @@
 # wisdom
-games description
+simple project for beginners description
